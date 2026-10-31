@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "W": { "item": "minecraft:wooden_pickaxe" },
+    "D": { "tag": "c:gems/diamond" },
+    "P": { "item": "minecraft:paper" },
+    "S": { "tag": "c:rods/wooden" }
+  },
+  "pattern": [
+    "W D",
+    " SP",
+    "S P"
+  ],
+  "result": {
+    "count": 1,
+    "id": "maidmining:mining_gohei"
+  }
+}

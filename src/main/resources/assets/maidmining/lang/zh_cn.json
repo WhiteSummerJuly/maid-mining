@@ -1,0 +1,11 @@
+{
+  "task.maidmining.mining": "采矿",
+  "maidmining.task.mining": "采矿",
+  "maidmining.task.mining.desc": "按区域挖矿：清理整片或只找矿脉，挖满自己回站卸货、补食物，挖完自动烧矿。",
+  "maidmining.config.depth": "向下深度（格）",
+  "item.maidmining.mining_gohei": "采矿御币",
+  "itemGroup.maidmining": "女仆矿业",
+  "block.maidmining.mining_station": "矿业工作站",
+  "item.maidmining.mining_station": "矿业工作站",
+  "item.maidmining.mining_badge": "矿区工牌"
+}

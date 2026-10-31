@@ -1,0 +1,11 @@
+{
+  "task.maidmining.mining": "Mining",
+  "maidmining.task.mining": "Mining",
+  "maidmining.task.mining.desc": "Mines a marked area (clear everything or ores only), hauls back when full, and smelts when done.",
+  "maidmining.config.depth": "Dig depth",
+  "item.maidmining.mining_gohei": "Mining Gohei",
+  "itemGroup.maidmining": "Maid Mining",
+  "block.maidmining.mining_station": "Mining Station",
+  "item.maidmining.mining_station": "Mining Station",
+  "item.maidmining.mining_badge": "Mining Badge"
+}

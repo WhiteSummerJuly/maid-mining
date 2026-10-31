@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "top": "maidmining:block/mining_station_top",
+    "side": "maidmining:block/mining_station_side",
+    "bottom": "maidmining:block/mining_station_bottom"
+  }
+}

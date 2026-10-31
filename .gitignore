@@ -1,0 +1,33 @@
+# Gradle
+.gradle/
+build/
+out/
+!gradle/wrapper/gradle-wrapper.jar
+
+# IDE
+.idea/
+*.iml
+.vscode/
+*.ipr
+*.iws
+
+# 运行目录（开发用）
+run/
+run-server/
+run-data/
+logs/
+
+# 本地依赖（车万女仆 jar 请自行获取，见 README）
+libs/*.jar
+!libs/.gitkeep
+
+# 存档/中间产物
+_archive/
+存档备份_*/
+_停用/
+*.zip
+发布/*.jar
+
+# 系统
+.DS_Store
+Thumbs.db

@@ -1,0 +1,33 @@
+modLoader = "javafml"
+loaderVersion = "[4,)"
+license = "MIT"
+issueTrackerURL = "https://github.com/"
+
+[[mods]]
+modId = "${mod_id}"
+version = "${mod_version}"
+logoFile = "icon.png"
+displayName = "\u5973\u4EC6\u77FF\u4E1A (Maid Mining)"
+authors = "\u5F52\u6C50"
+description = "\u8BA9\u8F66\u4E07\u5973\u4EC6\u66FF\u4F60\u6316\u77FF\uFF1A\u5708\u5B9A\u533A\u57DF\u540E\u81EA\u52A8\u5206\u5C42\u6316\u6398\u6216\u53EA\u627E\u77FF\u8109\uFF0C\u6316\u6EE1\u81EA\u5DF1\u56DE\u7AD9\u5378\u8D27\u3001\u8865\u98DF\u7269\uFF0C\u6316\u5B8C\u81EA\u52A8\u70E7\u77FF\u3002\u652F\u6301\u591A\u5973\u4EC6\u81EA\u52A8\u5206\u533A\u534F\u4F5C\u3001\u6218\u6597\u5973\u4EC6\u5B88\u77FF\u533A\u3002"
+
+[[dependencies.${mod_id}]]
+modId = "neoforge"
+type = "required"
+versionRange = "[21.1.0,21.2.0)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.${mod_id}]]
+modId = "minecraft"
+type = "required"
+versionRange = "[1.21.1,1.21.2)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.${mod_id}]]
+modId = "touhou_little_maid"
+type = "required"
+versionRange = "[1.5.0,1.6.0)"
+ordering = "NONE"
+side = "BOTH"
